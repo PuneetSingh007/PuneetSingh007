@@ -53,6 +53,14 @@
 
 ---
 
+## 📚 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PuneetSingh007&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
+</p>
+
+---
+
 ## 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/PuneteSingh007)
